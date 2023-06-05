@@ -1,0 +1,2303 @@
+year,state_name,prom_crimenes
+1992,california,374868.01
+1991,california,374094.47
+1993,california,366412.92
+1989,california,357391.27
+1990,california,357315.82
+1994,california,352819.32
+1988,california,339834.91
+1980,california,335151.27
+1995,california,334907.84
+1981,california,333415.82
+1986,california,331758.0
+1982,california,327501.09
+1987,california,327249.27
+1985,california,312449.64
+1979,california,308201.45
+1983,california,305632.36
+1996,california,301843.38
+1984,california,301330.91
+1997,california,285446.63
+2003,california,258298.85
+1998,california,257941.98
+2004,california,257522.89
+2005,california,252857.39
+2002,california,251796.12
+1991,texas,246642.4
+2006,california,246268.76
+2001,california,244920.52
+1989,texas,244884.73
+1988,texas,244612.55
+1990,texas,241726.18
+2007,california,237105.18
+1987,texas,235730.73
+2000,california,230312.86
+2008,california,230242.23
+1999,california,229303.81
+1992,texas,226573.66
+1986,texas,224694.91
+1981,new york,220897.27
+2012,california,220075.63
+1980,new york,219997.09
+2015,california,217540.81
+2009,california,215340.76
+2016,california,214898.01
+2013,california,214069.97
+2017,california,211939.38
+1993,texas,211097.86
+1994,florida,209295.98
+2010,california,208378.01
+1990,new york,208158.91
+1993,florida,207699.13
+1982,new york,207673.09
+1990,florida,207260.73
+2003,texas,207088.61
+1991,florida,206329.64
+2004,texas,205866.02
+2002,texas,205508.97
+1989,new york,205388.73
+1988,new york,205316.55
+2011,california,205231.2
+1991,new york,205028.52
+1992,florida,204975.72
+2018,california,203319.01
+2009,texas,203049.53
+1989,florida,202839.45
+2005,texas,202071.06
+2007,texas,201353.09
+1988,florida,201129.45
+2014,california,200937.75
+2001,texas,199784.75
+2019,     california,199185.09
+1979,new york,199116.36
+2008,texas,198810.41
+1996,texas,198547.09
+1995,florida,198364.65
+2006,texas,196628.13
+1996,florida,196296.28
+1994,texas,196224.16
+1985,texas,195508.18
+1997,florida,193748.35
+1997,texas,193702.68
+2010,texas,193542.47
+1995,texas,193516.88
+1992,new york,192999.08
+1987,new york,192912.91
+1983,new york,189602.0
+2000,texas,187875.96
+1998,florida,186750.83
+1986,new york,186370.36
+1987,florida,185879.09
+2020,     california,184741.82
+1993,new york,183669.43
+1998,texas,183648.91
+1999,texas,183377.1
+2011,texas,181372.94
+1985,new york,180692.91
+1984,new york,179841.09
+2012,texas,178716.6
+2013,texas,177246.96
+1984,texas,175296.0
+1982,texas,175086.73
+1986,florida,174666.18
+1999,florida,170495.37
+2014,texas,168949.07
+1983,texas,168883.27
+1994,new york,167506.12
+2001,florida,166042.94
+2000,florida,165483.75
+2002,florida,164720.68
+2015,texas,163453.53
+2016,texas,163210.79
+1981,texas,162313.27
+2008,florida,160936.73
+2003,florida,160360.49
+2007,florida,159660.65
+1980,texas,158265.09
+1985,florida,156525.27
+2004,florida,154709.44
+2006,florida,154674.49
+2017,texas,154467.06
+2005,florida,152538.43
+1995,new york,150369.2
+2009,florida,150101.34
+2019,     texas,149012.36
+1981,florida,148468.91
+1980,florida,146150.0
+2018,texas,145691.08
+1979,texas,144199.45
+2020,     texas,143680.73
+1982,florida,141377.64
+2010,florida,140183.64
+2011,florida,139891.69
+1996,new york,136629.39
+1984,florida,136127.09
+2012,florida,132196.64
+1983,florida,131677.45
+1980,illinois,129429.09
+1997,new york,128969.89
+1991,illinois,128696.35
+2013,florida,127554.84
+1981,illinois,127372.36
+1979,florida,123847.64
+2014,florida,123433.91
+1990,illinois,123348.36
+1979,illinois,123143.64
+1992,illinois,121922.03
+1982,illinois,121563.27
+2015,florida,121199.98
+1994,illinois,120210.29
+1989,illinois,119529.82
+1993,illinois,119479.24
+1998,new york,118583.3
+1988,illinois,117976.91
+2016,florida,117531.22
+1995,illinois,117348.11
+1986,illinois,116684.55
+1983,illinois,115724.73
+1981,michigan,114661.82
+1996,illinois,114593.91
+1987,illinois,114062.18
+1982,michigan,112363.82
+1980,michigan,112011.82
+2017,florida,111406.82
+1985,illinois,111391.45
+1997,illinois,111199.33
+1984,illinois,111011.82
+1999,new york,108499.88
+1984,michigan,108174.18
+1987,michigan,108004.73
+1986,michigan,107935.27
+2000,new york,106944.65
+1983,michigan,106807.82
+1981,ohio,106728.55
+1998,illinois,106402.51
+1980,ohio,106324.91
+1985,michigan,105193.82
+1991,michigan,104547.82
+2018,florida,103448.66
+1979,michigan,102911.82
+1988,michigan,102881.27
+1990,michigan,101314.91
+2001,new york,101096.67
+1989,michigan,100625.82
+1991,ohio,100102.99
+1979,ohio,100087.45
+1999,illinois,99557.6
+2019,     florida,98592.18
+2002,new york,97659.61
+1982,ohio,96835.27
+1992,michigan,96269.1
+2000,illinois,95723.79
+1990,ohio,95522.36
+2003,new york,94831.07
+1994,michigan,94015.18
+1993,michigan,93962.74
+1989,ohio,93864.0
+1992,ohio,93446.91
+2001,illinois,93440.94
+2004,new york,92300.74
+2002,illinois,92044.56
+1988,ohio,91824.36
+1997,ohio,91774.94
+1996,ohio,90515.99
+1993,ohio,90449.29
+1994,ohio,90057.6
+1995,michigan,89983.48
+1987,ohio,89709.09
+2005,new york,89424.49
+1995,ohio,89314.47
+1996,michigan,89268.63
+2003,illinois,88412.46
+1998,ohio,88195.07
+1983,ohio,88022.0
+2006,new york,87745.34
+1997,michigan,87379.1
+2001,ohio,86390.07
+2004,illinois,85974.18
+1980,new jersey,85453.82
+2002,ohio,85292.87
+1986,ohio,85208.55
+2020,     florida,85077.09
+2008,new york,84754.81
+2005,illinois,84577.1
+2006,ohio,84514.84
+1996,georgia,84356.05
+2007,new york,84289.47
+2005,ohio,83795.29
+1998,michigan,83586.58
+1984,ohio,83534.73
+2000,ohio,83432.79
+2004,ohio,83296.69
+1981,new jersey,83157.64
+2006,illinois,83087.83
+2010,new york,82947.02
+2003,ohio,82849.89
+1989,georgia,82768.18
+2012,new york,82692.7
+2009,new york,82300.81
+1999,ohio,81797.62
+1985,ohio,81796.73
+2011,new york,81692.21
+2008,illinois,81116.65
+2007,illinois,81065.06
+1980,pennsylvania,80326.0
+2007,ohio,79717.65
+1990,georgia,79665.64
+2013,new york,79538.07
+1981,pennsylvania,79450.18
+2008,georgia,79141.25
+1997,georgia,78830.81
+1992,georgia,78624.77
+1995,georgia,78605.12
+2008,ohio,78565.45
+1991,georgia,78193.63
+1996,pennsylvania,77956.89
+1993,georgia,77886.03
+1979,new jersey,77593.64
+1999,michigan,77564.14
+1991,pennsylvania,77389.76
+1994,georgia,77097.34
+1982,new jersey,76762.0
+1991,new jersey,76631.88
+1990,new jersey,76560.0
+2005,georgia,76230.09
+2007,georgia,76031.23
+2009,illinois,75916.49
+1998,georgia,75906.57
+2014,new york,75863.39
+2004,georgia,75796.4
+2008,north carolina,75617.59
+2011,ohio,75599.44
+2009,ohio,75410.45
+2010,ohio,75117.94
+1990,pennsylvania,75094.18
+1997,pennsylvania,74994.63
+2007,north carolina,74932.8
+1979,pennsylvania,74554.0
+1982,pennsylvania,74485.45
+2003,georgia,74369.22
+1988,new jersey,74327.27
+2000,michigan,74265.94
+2001,michigan,74142.45
+1997,north carolina,74136.59
+1989,new jersey,74116.91
+2006,georgia,74086.03
+1992,pennsylvania,74081.36
+2006,north carolina,73935.51
+1995,pennsylvania,73857.59
+2010,illinois,73855.15
+1995,north carolina,73776.62
+2012,ohio,73685.2
+1988,georgia,73630.0
+1996,north carolina,73580.14
+1989,pennsylvania,73562.55
+2001,north carolina,73499.82
+1987,new jersey,73393.09
+2009,georgia,73284.36
+1998,north carolina,73022.37
+1999,georgia,72904.38
+1986,new jersey,72615.82
+2011,illinois,72545.18
+2003,north carolina,72347.45
+1994,north carolina,72311.43
+1992,north carolina,72191.36
+1991,north carolina,72131.45
+2000,north carolina,71996.34
+1999,north carolina,71995.99
+2015,new york,71738.86
+2005,north carolina,71729.77
+1992,new jersey,71721.68
+1994,pennsylvania,71697.04
+1993,pennsylvania,71662.47
+2011,georgia,71637.23
+2004,north carolina,71559.89
+2002,north carolina,71424.13
+1998,pennsylvania,71417.34
+1993,north carolina,71375.84
+2010,georgia,71367.84
+2001,georgia,70827.31
+2002,michigan,70795.0
+2000,georgia,70719.06
+2012,illinois,70230.74
+2002,georgia,70152.23
+1983,new jersey,70109.09
+1985,new jersey,70043.45
+2006,michigan,69560.28
+2003,michigan,69476.63
+1988,pennsylvania,69458.18
+2016,new york,69424.83
+2009,north carolina,69392.85
+1983,pennsylvania,69109.64
+2014,georgia,68947.67
+2013,georgia,68790.01
+1993,new jersey,68775.12
+1987,pennsylvania,68647.82
+2012,georgia,68573.41
+2013,ohio,68053.09
+1995,new jersey,67948.01
+1999,pennsylvania,67901.69
+2011,north carolina,67497.01
+2005,michigan,67060.83
+1986,pennsylvania,67050.55
+1994,new jersey,66982.92
+2000,pennsylvania,66884.51
+1984,new jersey,66343.64
+2017,new york,66207.58
+1984,pennsylvania,66202.55
+2010,north carolina,66161.67
+2001,pennsylvania,66154.2
+1990,north carolina,66116.0
+2012,north carolina,66011.76
+2007,michigan,65876.65
+1987,georgia,65523.45
+1985,pennsylvania,65459.64
+2006,pennsylvania,65386.16
+2004,michigan,65372.45
+2014,ohio,65012.07
+2015,georgia,64742.11
+2005,pennsylvania,64220.2
+2008,pennsylvania,63880.89
+2004,pennsylvania,63748.36
+2002,pennsylvania,63718.66
+2018,new york,63647.38
+2013,illinois,63628.85
+2003,pennsylvania,63610.15
+2016,georgia,63417.72
+2002,arizona,63359.03
+1980,massachusetts,63314.73
+2008,michigan,63021.58
+1995,arizona,62992.2
+1996,new jersey,62931.32
+2007,pennsylvania,62847.71
+1989,north carolina,62768.18
+2020,     new york,62386.73
+2003,arizona,62359.99
+1979,massachusetts,62073.82
+2015,ohio,61919.52
+1995,washington,61912.88
+2013,north carolina,61840.0
+2019,     new york,61826.73
+2016,ohio,61670.92
+1981,massachusetts,61218.36
+2017,georgia,60875.65
+2009,michigan,60700.24
+1998,washington,60692.1
+1986,georgia,60545.27
+1997,washington,60450.27
+2011,pennsylvania,59934.22
+2019,     georgia,59906.0
+2005,washington,59893.42
+1988,washington,59736.55
+2006,arizona,59609.86
+1997,arizona,59589.16
+1996,washington,59450.19
+1997,new jersey,59403.17
+2009,pennsylvania,59159.38
+2010,pennsylvania,58724.5
+1994,arizona,58715.26
+2001,arizona,58646.65
+2004,washington,58577.18
+2016,illinois,58562.66
+1994,washington,58556.4
+2012,pennsylvania,58536.74
+2010,michigan,58218.34
+2004,arizona,58211.36
+2007,arizona,58209.23
+2014,illinois,58192.49
+1991,massachusetts,58024.74
+2014,north carolina,58016.89
+1990,massachusetts,57953.09
+1987,washington,57897.45
+1982,massachusetts,57849.27
+2005,arizona,57787.33
+1995,maryland,57706.93
+1988,north carolina,57692.73
+1992,washington,57644.35
+2016,north carolina,57560.55
+1991,washington,57517.68
+2017,ohio,57370.29
+1989,washington,57078.55
+2018,georgia,57035.48
+1981,georgia,56991.45
+1996,arizona,56897.05
+2003,washington,56876.6
+1993,washington,56872.9
+2015,illinois,56703.34
+2015,north carolina,56654.47
+2017,illinois,56651.36
+2006,washington,56503.02
+2002,washington,56352.41
+2001,washington,56090.79
+1996,maryland,55903.14
+2013,pennsylvania,55886.63
+1986,washington,55825.45
+1998,arizona,55816.63
+1994,maryland,55727.68
+1992,maryland,55547.15
+1985,georgia,55523.82
+1989,massachusetts,55216.73
+2017,north carolina,55187.98
+1993,maryland,55126.31
+1990,washington,55063.64
+1980,georgia,55026.36
+1999,washington,55002.99
+1991,maryland,54868.13
+2005,tennessee,54764.42
+2000,washington,54716.41
+1992,massachusetts,54559.7
+2018,illinois,54539.63
+2000,arizona,54381.94
+2007,tennessee,54332.9
+2008,arizona,54223.17
+1987,north carolina,54217.45
+1996,louisiana,54105.26
+2003,tennessee,53996.76
+1998,new jersey,53915.62
+2004,tennessee,53838.29
+2008,tennessee,53819.77
+2006,tennessee,53801.79
+1997,tennessee,53796.49
+2001,tennessee,53777.19
+2011,michigan,53648.51
+1993,massachusetts,53496.4
+2012,michigan,53494.1
+1993,louisiana,53467.07
+1982,georgia,53465.45
+1988,massachusetts,53275.45
+2018,ohio,53221.89
+1993,arizona,53185.43
+2002,tennessee,52903.22
+2019,     north carolina,52892.36
+1996,tennessee,52711.21
+1995,louisiana,52705.9
+1991,virginia,52659.63
+1990,arizona,52570.91
+1983,massachusetts,52540.18
+2014,pennsylvania,52487.22
+1997,maryland,52359.07
+1994,louisiana,52338.97
+1985,washington,52337.45
+2019,     illinois,52297.09
+1989,arizona,52109.82
+1980,washington,51715.64
+1981,washington,51631.64
+2007,washington,51554.74
+2014,washington,51418.33
+1995,tennessee,51249.16
+1999,arizona,51225.97
+2013,washington,51046.75
+1997,louisiana,51032.34
+1992,louisiana,51027.96
+2020,     north carolina,50995.82
+2018,north carolina,50965.74
+1994,missouri,50935.55
+1981,maryland,50804.55
+1991,missouri,50791.05
+2009,tennessee,50744.81
+2016,washington,50724.08
+1990,maryland,50687.64
+2000,tennessee,50586.23
+1980,maryland,50536.18
+1991,arizona,50494.16
+1979,georgia,50406.36
+1987,massachusetts,50393.64
+2013,michigan,50391.25
+1985,massachusetts,50363.45
+1999,new jersey,50341.62
+1998,maryland,50096.93
+1986,massachusetts,50084.55
+2019,     ohio,50028.73
+2012,washington,49988.51
+1990,virginia,49955.82
+1986,north carolina,49863.45
+1992,virginia,49840.7
+2015,pennsylvania,49790.59
+1990,louisiana,49770.18
+2001,new jersey,49754.69
+1986,louisiana,49740.36
+1989,louisiana,49725.82
+1982,north carolina,49719.64
+1998,tennessee,49713.84
+1991,louisiana,49667.27
+1995,missouri,49568.21
+1996,missouri,49538.0
+2015,washington,49478.75
+2010,tennessee,49412.78
+2008,washington,49305.21
+1980,north carolina,49304.36
+2010,washington,49194.83
+1991,indiana,49141.64
+2011,tennessee,49054.76
+1992,arizona,48971.57
+1980,indiana,48954.91
+1981,north carolina,48908.73
+2001,missouri,48889.13
+1995,indiana,48869.14
+1994,massachusetts,48778.36
+2009,washington,48660.85
+1993,tennessee,48576.77
+1993,virginia,48571.25
+1993,missouri,48491.22
+1982,washington,48487.27
+1998,louisiana,48444.43
+1980,missouri,48416.73
+1984,massachusetts,48370.36
+2000,new jersey,48352.89
+1991,tennessee,48330.27
+1992,indiana,48251.35
+1984,washington,48247.82
+1994,virginia,48219.42
+1994,tennessee,48174.14
+1988,maryland,48167.82
+1996,virginia,48161.45
+2009,arizona,48155.72
+1992,missouri,48127.76
+1989,missouri,48092.36
+2016,pennsylvania,48075.32
+2011,washington,48066.91
+1981,missouri,48045.45
+1994,indiana,48033.88
+1995,virginia,48002.01
+1995,massachusetts,47948.42
+1996,indiana,47772.63
+1984,georgia,47737.45
+1998,missouri,47729.79
+1990,missouri,47640.73
+1987,louisiana,47637.45
+1997,indiana,47620.03
+2003,missouri,47570.6
+2001,maryland,47564.69
+1983,washington,47516.91
+1979,maryland,47484.73
+1989,maryland,47474.0
+2002,missouri,47469.71
+1997,virginia,47460.1
+1997,missouri,47288.88
+2002,new jersey,47267.81
+2020,     pennsylvania,47265.45
+2012,arizona,47233.6
+1990,indiana,47209.27
+2012,tennessee,47117.2
+2002,maryland,47113.78
+1988,arizona,47082.73
+2017,washington,47053.11
+2005,missouri,46962.68
+1983,georgia,46952.91
+2007,missouri,46924.0
+1992,tennessee,46917.66
+2020,     georgia,46879.64
+1985,north carolina,46871.27
+1999,tennessee,46803.59
+1989,virginia,46693.45
+2011,arizona,46671.28
+1982,maryland,46623.27
+1979,washington,46608.91
+2006,missouri,46529.27
+1993,indiana,46381.13
+2000,maryland,46380.15
+1988,louisiana,46295.27
+1983,north carolina,46263.82
+1999,maryland,46259.3
+1981,virginia,46080.0
+2000,missouri,46062.85
+2010,arizona,46061.38
+2004,missouri,45975.02
+2020,     ohio,45903.09
+2013,arizona,45827.23
+2003,new jersey,45789.8
+1999,louisiana,45683.35
+1988,virginia,45533.82
+1999,missouri,45522.09
+2017,pennsylvania,45518.7
+1986,maryland,45456.0
+2020,     illinois,45436.18
+1984,north carolina,45331.27
+1985,louisiana,45327.82
+1988,missouri,45267.45
+1998,virginia,45196.93
+1979,indiana,45177.64
+1987,maryland,45165.27
+1989,indiana,45150.36
+2003,maryland,45127.68
+1981,indiana,45117.09
+2018,washington,45087.38
+2014,michigan,45064.69
+2013,tennessee,44983.43
+1990,tennessee,44790.18
+2008,missouri,44769.25
+1998,indiana,44719.69
+1980,virginia,44716.73
+2017,arizona,44657.6
+1979,north carolina,44567.64
+1982,missouri,44539.27
+2014,tennessee,44274.31
+1987,arizona,44255.45
+2017,tennessee,44217.9
+1986,arizona,44154.55
+2016,arizona,44069.26
+2000,louisiana,44063.63
+1982,indiana,44061.45
+2004,new jersey,44047.62
+2014,arizona,43951.64
+2004,maryland,43898.43
+1979,missouri,43722.0
+1987,missouri,43676.73
+2016,michigan,43582.21
+2015,tennessee,43462.2
+2001,louisiana,43341.18
+2006,indiana,43289.49
+2005,maryland,43247.06
+2005,indiana,43106.58
+2018,tennessee,43035.84
+2016,tennessee,42971.33
+2015,arizona,42962.38
+2015,michigan,42916.97
+1985,maryland,42904.18
+1986,missouri,42867.82
+2007,indiana,42764.36
+2008,indiana,42758.34
+2005,new jersey,42602.87
+2001,indiana,42598.1
+1987,virginia,42503.27
+1996,massachusetts,42502.65
+1982,virginia,42487.82
+2006,maryland,42473.1
+2008,maryland,42466.24
+2020,     washington,42330.73
+2004,indiana,42223.92
+1999,virginia,42162.33
+1982,louisiana,42122.55
+1988,indiana,42066.18
+2009,missouri,42055.19
+2002,indiana,41995.22
+1997,south carolina,41935.31
+2019,     washington,41933.45
+1983,maryland,41920.73
+2003,indiana,41798.3
+1996,south carolina,41794.63
+2018,pennsylvania,41770.6
+1986,colorado,41769.27
+2006,new jersey,41704.69
+2018,arizona,41696.21
+2002,virginia,41644.84
+1980,louisiana,41642.18
+2007,maryland,41611.89
+2002,louisiana,41552.48
+2001,virginia,41536.7
+2010,missouri,41509.98
+2000,indiana,41480.47
+1984,louisiana,41459.82
+2004,louisiana,41455.42
+1987,indiana,41429.82
+2011,indiana,41389.47
+2008,new jersey,41360.64
+2012,missouri,41274.3
+1985,arizona,41235.09
+1984,maryland,41232.73
+1981,louisiana,41231.45
+1979,virginia,41210.18
+1987,tennessee,41184.73
+1983,indiana,41140.36
+2011,missouri,41087.29
+1981,wisconsin,41072.91
+1983,missouri,40933.82
+2017,michigan,40933.36
+1997,massachusetts,40882.63
+1980,wisconsin,40839.82
+2007,south carolina,40716.53
+1999,indiana,40693.54
+2004,south carolina,40658.72
+1985,colorado,40646.36
+1986,virginia,40612.0
+1983,louisiana,40560.0
+1989,tennessee,40540.36
+1995,south carolina,40497.24
+2019,     tennessee,40492.55
+2008,south carolina,40491.44
+2003,louisiana,40422.98
+1980,arizona,40339.27
+2005,virginia,40335.36
+1998,south carolina,40293.45
+2009,indiana,40248.89
+1991,wisconsin,40234.78
+2003,south carolina,40191.68
+2004,virginia,40178.62
+2003,virginia,40171.98
+2007,new jersey,40161.4
+2012,indiana,40098.85
+2010,indiana,40047.98
+1991,south carolina,39996.36
+1994,south carolina,39977.82
+1983,virginia,39976.0
+1988,tennessee,39973.09
+1985,missouri,39921.45
+1991,alabama,39890.91
+2001,south carolina,39849.9
+2019,     pennsylvania,39787.27
+2013,missouri,39787.1
+2005,south carolina,39673.41
+2006,south carolina,39643.84
+2020,     tennessee,39636.91
+1992,alabama,39617.18
+1981,colorado,39613.45
+1986,tennessee,39596.36
+2002,south carolina,39559.18
+2011,new jersey,39441.45
+2008,virginia,39411.53
+1992,wisconsin,39320.24
+1984,indiana,39279.82
+2009,maryland,39259.36
+1979,louisiana,39226.0
+1985,virginia,39206.18
+1982,colorado,39197.09
+1985,indiana,39133.45
+1984,missouri,39126.18
+1993,south carolina,39102.93
+1990,wisconsin,39090.91
+2000,south carolina,39004.03
+2000,virginia,38973.57
+1984,virginia,38771.09
+2007,virginia,38691.76
+1981,arizona,38664.91
+1987,colorado,38660.73
+1992,south carolina,38606.41
+2007,louisiana,38602.01
+2009,virginia,38585.98
+1986,indiana,38576.36
+2006,virginia,38535.82
+2013,indiana,38530.22
+2018,michigan,38503.82
+2008,alabama,38460.36
+1982,wisconsin,38458.91
+1998,massachusetts,38401.74
+1997,alabama,38397.82
+2011,south carolina,38389.71
+1980,colorado,38379.45
+1990,south carolina,38323.45
+2019,     arizona,38223.82
+2010,new jersey,38200.48
+2009,south carolina,38021.05
+2010,south carolina,38005.06
+1983,colorado,37822.73
+1996,minnesota,37799.57
+2009,new jersey,37794.64
+2012,south carolina,37732.69
+1995,minnesota,37697.09
+2012,new jersey,37675.24
+2017,missouri,37665.01
+1979,wisconsin,37656.73
+2005,colorado,37628.1
+1999,south carolina,37620.61
+1994,alabama,37610.73
+1997,minnesota,37607.24
+1992,colorado,37596.02
+2015,missouri,37499.82
+1995,alabama,37488.73
+1995,oregon,37487.16
+1996,alabama,37447.64
+2006,louisiana,37437.23
+1992,minnesota,37393.45
+1984,colorado,37391.27
+1982,tennessee,37323.27
+1991,colorado,37296.39
+2010,maryland,37258.63
+2007,alabama,37247.87
+2010,virginia,37198.82
+2014,missouri,37189.46
+1980,tennessee,37173.82
+2016,missouri,37165.66
+1993,alabama,37141.73
+1993,wisconsin,37136.69
+1982,arizona,37081.09
+1997,oregon,36969.88
+1988,colorado,36957.64
+1989,wisconsin,36855.09
+1995,colorado,36764.74
+1983,wisconsin,36761.45
+2000,alabama,36756.18
+2019,     michigan,36747.27
+2004,alabama,36667.85
+2003,alabama,36651.45
+2009,louisiana,36637.51
+1999,massachusetts,36630.25
+2020,     arizona,36600.55
+2006,alabama,36509.45
+2008,louisiana,36508.79
+1994,wisconsin,36447.04
+1987,wisconsin,36440.91
+2002,alabama,36424.82
+1989,colorado,36423.27
+1998,alabama,36375.45
+2014,indiana,36331.74
+1990,colorado,36260.73
+1993,minnesota,36242.36
+1991,minnesota,36233.05
+2009,alabama,36219.47
+1995,wisconsin,36195.03
+2011,virginia,36167.76
+2002,massachusetts,36163.0
+1984,wisconsin,36154.73
+1986,oklahoma,36139.09
+1981,tennessee,36137.45
+1990,alabama,36109.82
+1990,minnesota,36104.91
+1984,arizona,36077.45
+1985,tennessee,36076.18
+2013,south carolina,36072.76
+1994,minnesota,36046.0
+2015,indiana,36024.8
+2001,massachusetts,35940.12
+2004,colorado,35900.03
+1989,south carolina,35881.45
+1996,wisconsin,35853.16
+1987,oklahoma,35847.09
+1993,colorado,35835.0
+2005,alabama,35831.09
+2016,indiana,35702.47
+1986,wisconsin,35642.0
+1987,minnesota,35633.82
+2002,colorado,35626.09
+1996,colorado,35579.65
+2011,maryland,35576.62
+2003,colorado,35540.02
+1979,colorado,35537.45
+2003,massachusetts,35441.21
+1980,minnesota,35439.64
+2018,missouri,35358.63
+1994,colorado,35354.12
+1994,oregon,35329.74
+2012,virginia,35293.94
+2011,louisiana,35256.31
+2019,     missouri,35255.09
+2013,new jersey,35239.72
+1981,minnesota,35223.82
+2005,louisiana,35183.11
+1988,oregon,35178.0
+2011,alabama,35157.18
+2014,south carolina,35106.72
+1988,wisconsin,35083.45
+2001,alabama,35060.91
+1999,alabama,35058.0
+1979,arizona,35000.91
+1996,oregon,34934.25
+2000,massachusetts,34934.07
+1981,alabama,34878.91
+1985,wisconsin,34872.36
+1998,minnesota,34764.32
+1986,oregon,34734.0
+2010,louisiana,34711.85
+1989,minnesota,34691.09
+2012,alabama,34650.27
+1989,alabama,34649.64
+1980,alabama,34638.36
+2013,louisiana,34624.72
+2012,maryland,34618.62
+2016,louisiana,34603.4
+1997,wisconsin,34570.94
+1987,oregon,34515.45
+2015,south carolina,34455.18
+1983,arizona,34433.09
+2020,     colorado,34391.27
+2020,     missouri,34378.73
+1988,south carolina,34373.27
+2016,south carolina,34346.58
+2013,virginia,34301.28
+1988,alabama,34229.27
+1983,tennessee,34172.0
+2004,massachusetts,34117.38
+2010,alabama,34035.99
+2013,maryland,33954.38
+2017,south carolina,33938.24
+1996,oklahoma,33928.87
+2001,colorado,33888.53
+2017,louisiana,33878.61
+1981,oregon,33866.73
+2006,massachusetts,33848.5
+2008,massachusetts,33829.58
+1988,minnesota,33780.36
+2014,louisiana,33758.59
+2017,indiana,33745.07
+2012,louisiana,33730.45
+1998,oregon,33696.36
+2010,massachusetts,33679.93
+1998,wisconsin,33653.27
+1982,minnesota,33474.55
+1986,minnesota,33422.36
+2009,massachusetts,33397.78
+2015,louisiana,33370.85
+1984,tennessee,33358.55
+1995,oklahoma,33358.45
+2013,alabama,33345.27
+2020,     michigan,33322.55
+2007,massachusetts,33315.85
+1981,connecticut,33240.55
+1982,alabama,33218.36
+1988,oklahoma,33158.73
+1997,oklahoma,33139.01
+2006,colorado,33134.62
+2018,south carolina,33128.61
+1980,connecticut,33100.18
+1987,alabama,33045.64
+1994,oklahoma,32996.6
+2005,massachusetts,32977.83
+1997,colorado,32917.98
+1985,oregon,32878.18
+2003,oregon,32795.45
+1979,connecticut,32733.27
+1991,oklahoma,32725.39
+2001,wisconsin,32621.3
+2018,louisiana,32613.33
+2014,virginia,32601.06
+1985,oklahoma,32560.0
+2014,new jersey,32499.31
+1979,minnesota,32427.09
+2018,colorado,32417.65
+2019,     south carolina,32414.0
+1998,colorado,32400.76
+2001,minnesota,32399.61
+2014,maryland,32315.49
+2002,minnesota,32265.59
+1989,oklahoma,32255.45
+2004,oregon,32219.21
+1990,connecticut,32194.18
+2011,massachusetts,32194.1
+2002,wisconsin,32180.78
+2016,virginia,32147.28
+1987,south carolina,32144.36
+1991,connecticut,32097.79
+1990,oklahoma,32020.18
+1979,tennessee,31961.09
+2007,wisconsin,31934.81
+2014,alabama,31915.02
+2015,virginia,31890.6
+2006,minnesota,31877.23
+2001,oregon,31851.0
+1993,oregon,31785.18
+1980,oregon,31738.36
+2019,     louisiana,31727.45
+1992,oklahoma,31722.12
+2017,colorado,31655.27
+1982,oregon,31631.45
+1986,alabama,31601.27
+1989,oregon,31589.82
+2005,minnesota,31554.62
+1986,south carolina,31552.91
+2016,colorado,31535.45
+1985,minnesota,31517.82
+2007,minnesota,31512.29
+1992,oregon,31508.37
+1999,wisconsin,31467.33
+2019,     colorado,31402.36
+2006,wisconsin,31391.65
+2018,indiana,31363.2
+2015,maryland,31345.16
+2000,wisconsin,31296.55
+1999,minnesota,31237.97
+1982,south carolina,31221.45
+2000,minnesota,31203.31
+2002,oregon,31172.85
+2000,colorado,31147.56
+2017,virginia,31119.05
+1982,connecticut,31114.36
+1993,oklahoma,31102.88
+2003,minnesota,31088.29
+2008,wisconsin,31085.35
+1989,connecticut,31035.45
+2005,oregon,31027.2
+2012,massachusetts,30977.97
+2016,maryland,30924.67
+2016,alabama,30878.85
+2003,wisconsin,30871.96
+2020,     south carolina,30850.55
+2017,alabama,30772.45
+2015,new jersey,30744.6
+2003,oklahoma,30722.38
+2004,minnesota,30686.71
+2015,alabama,30631.47
+1981,south carolina,30618.55
+1991,oregon,30576.89
+1998,oklahoma,30452.04
+1983,minnesota,30395.82
+2004,oklahoma,30384.68
+1984,oregon,30355.64
+1980,south carolina,30306.55
+1983,oregon,30254.18
+1982,oklahoma,30166.73
+1999,oregon,30158.58
+1992,connecticut,30144.39
+2000,oregon,30143.03
+2002,oklahoma,30131.39
+2013,massachusetts,30073.74
+1988,connecticut,30038.91
+2017,maryland,30005.85
+1999,colorado,29967.45
+2018,alabama,29867.09
+2020,     louisiana,29762.36
+2015,colorado,29707.55
+2008,minnesota,29704.94
+2007,colorado,29621.2
+1983,oklahoma,29556.91
+1983,alabama,29520.18
+2009,wisconsin,29517.88
+1985,south carolina,29456.91
+2005,oklahoma,29355.74
+1984,oklahoma,29337.27
+2018,virginia,29285.54
+1979,oregon,29280.91
+2005,wisconsin,29260.26
+2017,new jersey,29217.38
+1990,oregon,29177.82
+2016,new jersey,29167.82
+1987,connecticut,29166.0
+1979,alabama,29081.82
+1984,minnesota,29069.82
+2001,oklahoma,28984.05
+2019,     virginia,28883.64
+1985,alabama,28820.55
+2004,wisconsin,28775.79
+2000,oklahoma,28601.68
+1999,oklahoma,28598.91
+2013,colorado,28578.05
+2012,wisconsin,28553.01
+2010,wisconsin,28537.3
+2008,colorado,28514.06
+1983,connecticut,28400.73
+2019,     indiana,28382.36
+1983,south carolina,28313.27
+1984,alabama,28307.45
+2012,colorado,28238.79
+2011,wisconsin,28033.9
+2014,colorado,28028.18
+1986,connecticut,27998.0
+1984,south carolina,27977.64
+2019,     alabama,27908.18
+2014,massachusetts,27816.16
+1993,connecticut,27709.13
+2009,minnesota,27666.72
+1980,oklahoma,27572.73
+2010,colorado,27517.7
+2018,maryland,27505.67
+2009,colorado,27495.54
+2009,oklahoma,27439.47
+2012,minnesota,27377.78
+1981,oklahoma,27247.27
+1985,connecticut,27150.91
+2012,oklahoma,27105.1
+1994,connecticut,27082.36
+2010,minnesota,27082.25
+2011,colorado,27067.8
+1979,south carolina,27007.27
+2011,minnesota,27002.42
+2006,oregon,26981.63
+2006,oklahoma,26843.89
+2010,oklahoma,26831.06
+1995,connecticut,26816.26
+2007,oklahoma,26719.05
+1984,connecticut,26544.55
+2008,oklahoma,26527.55
+2019,     maryland,26473.09
+2011,oklahoma,26352.09
+2013,minnesota,26297.45
+2020,     indiana,26293.45
+2013,oklahoma,26267.07
+2018,new jersey,26188.66
+2007,oregon,26144.47
+2020,     virginia,26007.09
+2013,wisconsin,25904.41
+2015,massachusetts,25841.4
+2016,oklahoma,25432.86
+2014,minnesota,25417.04
+2014,wisconsin,25299.05
+1996,connecticut,25167.71
+1991,kansas,25106.8
+1980,iowa,25095.64
+2017,minnesota,24971.29
+2015,minnesota,24939.18
+2019,     new jersey,24912.55
+2018,oregon,24864.42
+1981,iowa,24843.27
+2017,oregon,24744.69
+2012,oregon,24738.52
+1979,oklahoma,24729.45
+2014,oklahoma,24717.07
+2020,     minnesota,24710.91
+2013,oregon,24568.3
+2008,oregon,24560.83
+2018,oklahoma,24467.24
+2016,massachusetts,24406.37
+1992,kansas,24405.0
+2014,oregon,24368.26
+2015,oklahoma,24339.06
+1997,kansas,24311.09
+2016,minnesota,24298.32
+2017,oklahoma,24248.55
+2016,oregon,24247.03
+2016,wisconsin,24241.89
+2015,wisconsin,24198.59
+2011,oregon,23912.57
+2019,     minnesota,23884.73
+2015,oregon,23824.67
+1982,kentucky,23791.64
+2019,     oklahoma,23778.73
+1997,connecticut,23689.84
+2019,     oregon,23627.09
+2011,kentucky,23547.16
+1995,kentucky,23524.44
+1981,kentucky,23507.09
+1994,mississippi,23474.24
+1981,kansas,23395.64
+1990,kansas,23393.45
+1998,kansas,23289.55
+1994,kentucky,23222.34
+2005,arkansas,23198.22
+2006,arkansas,23194.49
+1983,kentucky,23194.36
+2020,     alabama,23178.73
+2007,arkansas,23156.85
+2008,kentucky,23125.16
+1980,kansas,23029.09
+1997,mississippi,22991.27
+2010,oregon,22965.79
+2020,     oklahoma,22901.82
+1993,kansas,22895.27
+2018,minnesota,22875.87
+1995,kansas,22790.91
+2017,wisconsin,22772.29
+1989,kansas,22767.09
+2020,     oregon,22756.73
+1980,kentucky,22734.36
+2008,arkansas,22730.14
+1979,iowa,22705.27
+1992,kentucky,22692.73
+2009,oregon,22682.76
+2004,arkansas,22678.38
+1991,kentucky,22671.27
+2011,arkansas,22656.42
+2009,arkansas,22543.63
+1998,connecticut,22541.85
+1994,kansas,22507.45
+1989,kentucky,22478.18
+1993,kentucky,22457.64
+1997,utah,22446.04
+2012,arkansas,22408.29
+2015,nevada,22404.0
+1996,kentucky,22361.17
+1996,mississippi,22335.91
+1991,arkansas,22319.25
+2017,massachusetts,22318.86
+2012,kentucky,22301.58
+1998,kentucky,22297.91
+1997,kentucky,22220.47
+1987,kentucky,22158.73
+2010,kentucky,22141.95
+1995,mississippi,22141.77
+2020,     maryland,22127.64
+1990,kentucky,22108.0
+1987,kansas,22076.36
+1988,kansas,22066.0
+2016,nevada,22024.53
+2006,nevada,22005.83
+2006,kentucky,21962.82
+2013,arkansas,21955.71
+1998,mississippi,21936.82
+1996,kansas,21894.99
+2007,kentucky,21878.57
+2020,     new jersey,21859.64
+1982,iowa,21848.36
+2003,kansas,21838.84
+2004,kansas,21837.97
+2009,kentucky,21803.87
+1996,utah,21767.96
+2002,kentucky,21763.22
+2000,kentucky,21751.47
+2001,mississippi,21749.18
+1997,new mexico,21725.31
+2002,mississippi,21718.06
+1982,kansas,21680.73
+1997,arkansas,21645.82
+1995,utah,21607.17
+1986,kansas,21578.73
+2010,arkansas,21552.54
+2000,kansas,21551.6
+1986,iowa,21515.64
+1999,mississippi,21498.05
+1996,arkansas,21446.64
+2001,kentucky,21431.42
+1999,kansas,21419.82
+1994,arkansas,21403.46
+1987,iowa,21333.45
+2005,nevada,21288.38
+1999,kentucky,21270.63
+1993,mississippi,21231.82
+2005,kentucky,21226.91
+1998,new mexico,21221.47
+1988,kentucky,21208.36
+1993,arkansas,21203.26
+1995,iowa,21196.76
+1995,arkansas,21187.49
+2016,arkansas,21185.07
+2007,nevada,21180.03
+2001,kansas,21173.33
+2006,kansas,21132.18
+2003,mississippi,21128.82
+1979,kansas,21087.45
+1989,iowa,21074.91
+2007,kansas,21036.02
+1998,utah,21023.93
+2018,nevada,21017.15
+1991,iowa,21009.5
+1988,iowa,21006.0
+2004,kentucky,20975.94
+2005,kansas,20962.94
+1986,kentucky,20959.45
+2015,arkansas,20833.69
+1990,arkansas,20801.45
+2014,arkansas,20791.89
+1992,arkansas,20771.16
+2013,kentucky,20765.62
+2000,mississippi,20712.09
+1990,iowa,20703.82
+1983,iowa,20699.82
+1985,iowa,20675.09
+2003,kentucky,20656.14
+1996,new mexico,20564.41
+2002,arkansas,20485.82
+2004,nevada,20472.98
+1979,kentucky,20417.45
+1992,mississippi,20353.45
+2018,massachusetts,20343.46
+2003,arkansas,20279.88
+2017,arkansas,20258.4
+2001,arkansas,20236.64
+1992,iowa,20232.93
+1999,connecticut,20226.31
+2002,kansas,20182.67
+2018,wisconsin,20159.07
+1984,iowa,20102.91
+1984,kentucky,20026.36
+2000,connecticut,20017.9
+2000,arkansas,20004.79
+2014,kentucky,19992.82
+2003,nevada,19990.51
+1983,kansas,19972.18
+1985,kentucky,19965.82
+1989,arkansas,19929.09
+2004,mississippi,19918.82
+1991,mississippi,19892.27
+2008,nevada,19815.63
+2016,kentucky,19811.9
+1997,iowa,19787.91
+1998,arkansas,19767.0
+1995,new mexico,19694.26
+1993,iowa,19681.07
+2015,kentucky,19640.2
+1985,kansas,19489.09
+2017,kentucky,19483.3
+2001,connecticut,19417.94
+2008,kansas,19353.22
+2018,arkansas,19352.55
+1999,utah,19273.88
+2003,utah,19269.13
+1984,kansas,19235.09
+2020,     wisconsin,19184.55
+2002,connecticut,18952.74
+1996,iowa,18922.55
+2004,connecticut,18920.52
+2019,     massachusetts,18920.18
+2003,connecticut,18915.29
+1999,new mexico,18863.01
+2019,     arkansas,18832.0
+2004,utah,18803.05
+1991,new mexico,18799.27
+1994,iowa,18799.18
+2005,mississippi,18793.09
+1999,arkansas,18752.22
+2002,utah,18751.99
+2019,     wisconsin,18745.64
+1992,utah,18653.8
+2009,kansas,18617.63
+1994,new mexico,18609.78
+1988,arkansas,18581.64
+2006,mississippi,18532.55
+1992,new mexico,18495.09
+1997,nevada,18492.69
+1987,arkansas,18432.0
+2012,kansas,18429.93
+2002,iowa,18412.92
+1990,new mexico,18412.55
+1993,new mexico,18411.91
+2005,utah,18393.95
+2006,connecticut,18391.07
+1994,utah,18390.71
+1995,nevada,18303.88
+1989,new mexico,18263.27
+2000,new mexico,18254.51
+1998,iowa,18218.48
+2000,utah,18175.5
+2005,connecticut,18149.17
+1988,new mexico,18137.27
+2010,kansas,18130.6
+2009,nevada,18113.26
+2018,kentucky,18108.64
+2020,     arkansas,18102.36
+1990,mississippi,18102.0
+2007,utah,18079.23
+2007,mississippi,18070.73
+1991,utah,18046.36
+2011,kansas,17976.5
+2008,utah,17917.47
+2016,utah,17917.47
+1987,new mexico,17854.91
+2017,new mexico,17850.18
+1986,new mexico,17817.64
+2008,connecticut,17809.76
+2011,mississippi,17786.09
+2002,nevada,17774.32
+2009,utah,17773.73
+2015,utah,17739.21
+1990,utah,17729.45
+1993,utah,17713.4
+2001,new mexico,17707.15
+1994,nevada,17690.15
+2007,connecticut,17651.25
+2016,new mexico,17651.23
+1989,utah,17635.27
+2017,nevada,17591.04
+2013,nevada,17566.58
+2010,mississippi,17563.73
+2017,utah,17552.57
+2001,iowa,17546.46
+2001,utah,17511.7
+2013,kansas,17480.08
+1996,nevada,17465.09
+2009,mississippi,17415.18
+2003,iowa,17406.98
+2014,mississippi,17383.18
+2013,utah,17354.15
+2006,utah,17336.39
+2016,kansas,17321.21
+2019,     kentucky,17319.82
+2000,iowa,17206.66
+2008,mississippi,17170.34
+2015,mississippi,17163.73
+1987,utah,17162.36
+1988,mississippi,17160.73
+1988,utah,17151.45
+2004,iowa,17142.06
+2012,nevada,17141.9
+2010,utah,17135.97
+2002,new mexico,17127.55
+1985,new mexico,17100.0
+2020,     massachusetts,17070.91
+2009,connecticut,16948.96
+2014,nevada,16930.43
+1986,arkansas,16926.18
+2005,iowa,16922.4
+2004,new mexico,16905.86
+2010,nevada,16898.09
+2006,iowa,16860.28
+2013,new mexico,16822.0
+1999,iowa,16818.7
+2014,utah,16818.33
+1998,nevada,16774.21
+2012,utah,16769.04
+2015,kansas,16756.76
+1989,mississippi,16752.0
+2017,kansas,16746.05
+2005,new mexico,16732.62
+2012,mississippi,16674.15
+2015,new mexico,16636.17
+2016,mississippi,16617.17
+2020,     kentucky,16595.09
+1986,utah,16584.55
+1982,mississippi,16570.36
+2018,utah,16525.84
+2014,kansas,16509.75
+2017,mississippi,16442.24
+2018,kansas,16421.35
+1987,mississippi,16411.45
+2013,mississippi,16403.55
+2001,nevada,16336.83
+1982,new mexico,16326.91
+2018,new mexico,16322.53
+2011,utah,16297.73
+1981,mississippi,16271.82
+2003,new mexico,16246.73
+1984,new mexico,16164.73
+2006,new mexico,16146.31
+1983,new mexico,16142.36
+1982,arkansas,16126.73
+2008,new mexico,16125.66
+2020,     utah,16102.18
+2007,new mexico,16088.31
+2010,connecticut,16063.43
+2007,iowa,16020.05
+1986,mississippi,15965.09
+1985,utah,15903.64
+2019,     nevada,15884.0
+2012,connecticut,15883.47
+2009,new mexico,15882.65
+1981,utah,15849.09
+2011,connecticut,15836.59
+1981,arkansas,15834.73
+1980,arkansas,15826.55
+2014,new mexico,15796.82
+2012,new mexico,15775.45
+1993,nevada,15608.72
+1980,mississippi,15604.0
+1980,utah,15596.73
+2011,nevada,15551.63
+2011,new mexico,15538.23
+1995,hawaii,15535.82
+1985,mississippi,15515.09
+2000,nevada,15509.96
+1985,arkansas,15376.55
+1999,nevada,15307.82
+2019,     new mexico,15281.09
+1983,mississippi,15090.0
+2010,new mexico,15077.95
+1982,utah,15071.09
+1983,utah,15065.27
+1992,nevada,14969.48
+1981,new mexico,14960.36
+2008,iowa,14896.52
+1983,arkansas,14816.91
+2013,connecticut,14735.12
+1991,nevada,14706.54
+2018,mississippi,14543.28
+2011,iowa,14533.47
+1984,mississippi,14453.64
+1984,arkansas,14382.36
+1979,arkansas,14351.45
+1994,hawaii,14320.55
+1984,utah,14316.0
+2009,iowa,14285.9
+2012,iowa,14278.09
+2014,connecticut,14217.68
+2019,     kansas,14203.09
+1996,hawaii,14174.73
+2019,     mississippi,14092.0
+1980,new mexico,14083.09
+2019,     utah,14010.36
+2010,iowa,13991.28
+2013,iowa,13975.33
+2020,     kansas,13902.18
+2020,     new mexico,13864.0
+2016,iowa,13733.81
+2002,hawaii,13679.64
+1979,utah,13650.18
+2020,     nevada,13619.45
+2017,iowa,13581.1
+1995,nebraska,13526.0
+2001,nebraska,13488.13
+2016,connecticut,13478.72
+2014,iowa,13455.64
+2015,connecticut,13426.72
+2015,iowa,13409.27
+2002,nebraska,13384.09
+1993,hawaii,13375.64
+1996,nebraska,13326.82
+1998,nebraska,13320.86
+1990,nevada,13249.82
+1981,nevada,13200.36
+2017,connecticut,13144.51
+1980,hawaii,13123.64
+1994,nebraska,13103.27
+1979,new mexico,13060.91
+1997,hawaii,12998.55
+1979,mississippi,12951.45
+1997,nebraska,12908.15
+2020,     mississippi,12907.09
+1992,hawaii,12890.73
+1980,nevada,12883.64
+2003,nebraska,12781.89
+2000,nebraska,12743.84
+1989,hawaii,12677.64
+1989,nevada,12668.91
+1982,nevada,12656.0
+1992,nebraska,12626.18
+1991,nebraska,12611.09
+2003,hawaii,12594.0
+1993,nebraska,12508.36
+1999,nebraska,12445.59
+1988,nevada,12436.91
+1993,district of columbia,12361.02
+1981,district of columbia,12347.27
+1991,hawaii,12320.73
+1990,hawaii,12304.73
+2019,     iowa,12278.55
+1995,district of columbia,12263.25
+1980,nebraska,12241.82
+2018,connecticut,12232.85
+1992,district of columbia,12217.03
+2004,nebraska,12165.7
+1990,nebraska,12090.73
+1979,hawaii,12057.27
+1988,nebraska,12051.27
+2001,hawaii,11990.36
+1989,nebraska,11984.73
+1987,nebraska,11974.0
+1981,nebraska,11970.55
+1982,district of columbia,11944.0
+1988,hawaii,11901.82
+1982,hawaii,11899.64
+2005,nebraska,11891.98
+1990,district of columbia,11888.91
+2018,iowa,11879.07
+2006,nebraska,11748.11
+1996,district of columbia,11746.27
+1991,district of columbia,11708.98
+2005,hawaii,11703.27
+1987,nevada,11665.45
+1981,hawaii,11647.27
+2004,hawaii,11588.73
+1980,district of columbia,11576.0
+1998,hawaii,11567.82
+2020,     iowa,11513.82
+1994,district of columbia,11489.36
+1987,hawaii,11456.0
+2000,hawaii,11452.18
+1979,nebraska,11427.45
+1982,nebraska,11392.73
+1989,district of columbia,11304.0
+2020,     connecticut,11296.18
+1979,nevada,11272.36
+1986,nebraska,11202.55
+1985,nevada,11188.73
+1988,district of columbia,11176.55
+2007,nebraska,11144.59
+1986,nevada,11012.73
+1983,nebraska,10998.0
+1986,hawaii,10950.91
+1984,nevada,10867.45
+1983,nevada,10856.18
+1983,hawaii,10805.82
+1985,nebraska,10788.18
+2006,hawaii,10519.09
+1983,district of columbia,10504.73
+2019,     connecticut,10483.45
+1999,hawaii,10422.55
+1984,hawaii,10360.36
+2008,nebraska,10350.16
+1979,district of columbia,10260.0
+2007,hawaii,10256.36
+1984,nebraska,10209.64
+1980,rhode island,10202.36
+2012,nebraska,10183.84
+1981,rhode island,10128.91
+2011,nebraska,10103.99
+2009,nebraska,9988.32
+1985,hawaii,9966.18
+2013,nebraska,9902.27
+2010,nebraska,9804.65
+1990,rhode island,9765.82
+1979,rhode island,9745.27
+1984,district of columbia,9731.64
+2006,west virginia,9647.27
+2014,nebraska,9646.68
+2005,west virginia,9587.47
+1987,district of columbia,9558.0
+1986,district of columbia,9491.64
+1989,rhode island,9480.73
+1987,rhode island,9475.45
+1997,district of columbia,9464.79
+1988,rhode island,9415.27
+2009,west virginia,9413.71
+2004,west virginia,9353.11
+1982,rhode island,9343.27
+1995,idaho,9308.42
+1981,west virginia,9289.27
+2009,hawaii,9284.73
+2008,west virginia,9269.72
+2007,west virginia,9207.66
+1991,rhode island,9199.09
+2012,west virginia,9172.49
+2015,hawaii,9117.18
+1985,district of columbia,9104.55
+2014,hawaii,9078.18
+2017,nebraska,9061.91
+2008,hawaii,8991.64
+2016,nebraska,8958.31
+2010,hawaii,8958.18
+1980,west virginia,8957.45
+1999,west virginia,8939.67
+1980,maine,8923.09
+2013,hawaii,8915.27
+1982,west virginia,8894.36
+2015,nebraska,8744.27
+1981,maine,8733.45
+1991,west virginia,8721.45
+1983,rhode island,8691.27
+1986,rhode island,8690.73
+1996,idaho,8675.68
+1983,west virginia,8642.36
+1997,idaho,8637.15
+2011,hawaii,8607.09
+1992,west virginia,8597.82
+1979,maine,8591.09
+2000,west virginia,8558.89
+2003,west virginia,8546.04
+2010,west virginia,8526.0
+2012,hawaii,8508.55
+2016,hawaii,8495.45
+1991,maine,8460.18
+1998,district of columbia,8402.82
+1994,idaho,8399.85
+1998,west virginia,8388.36
+2001,west virginia,8386.68
+1993,west virginia,8380.55
+1994,west virginia,8375.82
+2018,hawaii,8375.07
+1992,rhode island,8366.5
+1984,rhode island,8350.18
+2002,district of columbia,8328.38
+2018,nebraska,8324.04
+2013,west virginia,8322.83
+1985,rhode island,8313.27
+1998,idaho,8301.97
+1984,west virginia,8290.18
+2019,     nebraska,8261.82
+1990,maine,8255.64
+1996,west virginia,8245.73
+2015,west virginia,8244.4
+2002,west virginia,8241.31
+1980,idaho,8204.73
+1993,rhode island,8181.26
+1995,west virginia,8170.0
+1990,west virginia,8162.0
+1997,west virginia,8154.55
+2017,hawaii,8123.36
+2011,west virginia,8093.16
+1986,west virginia,8083.09
+2001,district of columbia,8078.72
+2019,     hawaii,8065.82
+2014,west virginia,8063.01
+2016,west virginia,8030.13
+1989,west virginia,7977.82
+1989,maine,7962.18
+1982,maine,7951.09
+1979,west virginia,7939.82
+1985,west virginia,7930.0
+1991,idaho,7929.18
+1992,maine,7913.32
+2020,     nebraska,7902.55
+1981,idaho,7900.0
+2003,idaho,7892.89
+1988,maine,7844.91
+1980,new hampshire,7820.18
+1994,montana,7811.09
+1985,maine,7770.73
+1992,idaho,7753.84
+2002,idaho,7737.07
+2014,district of columbia,7732.27
+1997,delaware,7697.79
+1993,idaho,7684.7
+2004,idaho,7683.35
+2005,idaho,7678.81
+1996,maine,7672.12
+1986,idaho,7672.0
+1983,maine,7670.18
+1988,west virginia,7668.91
+1995,rhode island,7641.51
+1987,maine,7623.27
+1999,district of columbia,7613.64
+2003,district of columbia,7593.28
+1995,montana,7589.73
+2000,district of columbia,7569.36
+1987,west virginia,7556.0
+1987,idaho,7541.82
+2001,idaho,7527.11
+2000,idaho,7497.43
+1994,rhode island,7467.94
+1990,idaho,7426.36
+2016,district of columbia,7421.67
+1984,maine,7413.82
+1995,maine,7412.69
+1986,maine,7388.18
+1979,new hampshire,7384.36
+1994,maine,7380.12
+1990,new hampshire,7351.82
+1981,new hampshire,7347.09
+1980,delaware,7328.36
+1993,montana,7308.24
+2015,district of columbia,7303.85
+1981,delaware,7273.09
+1991,delaware,7257.87
+1998,delaware,7256.44
+1989,idaho,7247.27
+1989,new hampshire,7238.18
+1981,montana,7227.27
+1988,idaho,7216.36
+2013,district of columbia,7212.12
+1996,rhode island,7189.64
+1996,montana,7183.24
+1999,idaho,7170.38
+1982,idaho,7164.18
+1985,idaho,7141.09
+1980,montana,7140.18
+2017,west virginia,7114.61
+1993,maine,7106.22
+2001,rhode island,7095.62
+1997,maine,7073.35
+2006,idaho,7055.86
+1997,montana,7047.0
+2008,district of columbia,7041.14
+2012,district of columbia,7023.49
+1982,delaware,6988.55
+1998,montana,6983.32
+2002,rhode island,6981.7
+1979,idaho,6978.0
+1984,montana,6970.55
+1983,idaho,6951.45
+2019,     district of columbia,6949.45
+1991,new hampshire,6926.91
+1979,delaware,6905.45
+2007,idaho,6904.07
+1983,montana,6899.09
+1992,montana,6885.82
+1998,maine,6879.11
+2018,district of columbia,6859.48
+2008,delaware,6832.79
+1985,montana,6832.18
+2020,     hawaii,6818.91
+2007,district of columbia,6773.3
+1987,montana,6765.27
+2011,district of columbia,6744.43
+1995,delaware,6726.38
+2010,district of columbia,6697.19
+1984,idaho,6682.36
+2017,district of columbia,6675.98
+2010,delaware,6671.18
+1986,montana,6669.45
+2009,district of columbia,6652.77
+1988,new hampshire,6649.64
+1999,delaware,6629.5
+2000,rhode island,6627.27
+1982,new hampshire,6621.09
+2011,delaware,6602.65
+2011,idaho,6561.29
+1997,rhode island,6559.0
+1999,maine,6550.55
+1990,montana,6540.91
+2006,district of columbia,6516.83
+2012,delaware,6502.51
+1990,delaware,6492.55
+2006,delaware,6483.98
+1987,new hampshire,6479.82
+2008,idaho,6477.86
+2011,new hampshire,6477.68
+1999,rhode island,6455.1
+1996,delaware,6453.56
+2011,maine,6449.85
+2009,delaware,6437.24
+2007,delaware,6422.36
+2003,rhode island,6420.31
+2006,maine,6399.57
+2012,idaho,6396.29
+2000,delaware,6381.12
+1979,montana,6374.55
+2009,idaho,6369.41
+2012,maine,6369.19
+2000,montana,6365.86
+2012,new hampshire,6349.55
+2010,idaho,6347.28
+1998,rhode island,6320.45
+1995,alaska,6319.98
+1982,montana,6310.73
+1994,alaska,6290.38
+2001,maine,6290.25
+2010,maine,6277.81
+1994,delaware,6277.58
+2004,district of columbia,6271.37
+2002,maine,6252.42
+1988,montana,6237.64
+1992,new hampshire,6222.73
+1986,new hampshire,6218.18
+2005,district of columbia,6213.12
+2014,idaho,6203.49
+1993,delaware,6202.27
+2008,maine,6183.9
+2013,idaho,6175.58
+2004,rhode island,6153.72
+2007,maine,6149.22
+2013,delaware,6142.16
+2017,idaho,6132.84
+2013,new hampshire,6132.45
+2003,maine,6092.29
+2016,idaho,6091.75
+2018,west virginia,6088.82
+2003,delaware,6086.29
+1992,delaware,6074.88
+2000,maine,6073.83
+2005,maine,6068.76
+2001,montana,6067.05
+1993,alaska,6065.12
+1986,alaska,6064.18
+2009,maine,6053.14
+1983,delaware,6022.55
+2004,maine,6020.28
+1996,alaska,6016.83
+2019,     west virginia,6009.45
+1996,new hampshire,5966.27
+2016,delaware,5960.96
+2017,alaska,5959.55
+2015,idaho,5957.62
+1989,delaware,5953.27
+1992,alaska,5944.18
+1993,new hampshire,5942.0
+2014,delaware,5932.29
+2016,montana,5929.68
+2008,rhode island,5919.42
+1991,alaska,5908.91
+1985,new hampshire,5900.73
+2013,maine,5891.67
+2004,delaware,5885.44
+2001,delaware,5868.26
+1989,montana,5858.18
+1983,new hampshire,5852.18
+1997,alaska,5839.48
+2005,montana,5826.93
+2020,     district of columbia,5822.91
+2005,rhode island,5818.64
+2018,alaska,5811.38
+2002,montana,5810.65
+2016,alaska,5807.36
+2002,delaware,5783.52
+1987,delaware,5782.91
+2003,montana,5779.2
+1988,delaware,5758.91
+2017,montana,5743.55
+2005,delaware,5742.8
+2018,montana,5733.91
+2007,montana,5724.25
+2010,new hampshire,5716.53
+2020,     west virginia,5696.0
+1999,montana,5672.92
+1994,new hampshire,5667.7
+2015,montana,5660.38
+1997,new hampshire,5629.64
+2009,new hampshire,5622.07
+1985,delaware,5610.73
+1984,delaware,5580.36
+1984,new hampshire,5573.64
+1985,alaska,5567.09
+1986,delaware,5560.73
+1984,alaska,5559.27
+2011,rhode island,5557.73
+2006,montana,5555.67
+1995,new hampshire,5543.59
+2008,new hampshire,5536.91
+2015,delaware,5534.36
+2006,rhode island,5523.65
+2009,rhode island,5498.65
+2000,new hampshire,5468.13
+2018,idaho,5458.98
+2007,rhode island,5455.63
+2004,montana,5444.73
+2012,rhode island,5399.7
+2010,rhode island,5395.23
+1991,montana,5359.45
+2014,montana,5353.6
+1998,alaska,5332.91
+2008,montana,5330.81
+2013,montana,5330.37
+2001,new hampshire,5316.2
+2014,new hampshire,5263.72
+2012,montana,5256.76
+2004,new hampshire,5248.68
+1983,alaska,5241.64
+1998,new hampshire,5214.76
+2017,delaware,5206.89
+2013,rhode island,5204.47
+2006,alaska,5199.11
+2019,     montana,5163.82
+2003,new hampshire,5163.74
+1990,alaska,5153.09
+2002,new hampshire,5147.78
+2014,maine,5146.34
+2007,new hampshire,5144.93
+2003,alaska,5139.88
+1987,alaska,5133.09
+2005,alaska,5122.89
+2010,montana,5117.92
+2020,     montana,5089.82
+2006,new hampshire,5063.99
+2002,alaska,5045.55
+2019,     alaska,5025.27
+2009,montana,5023.65
+2007,alaska,5022.34
+1999,new hampshire,4983.96
+1982,alaska,4947.45
+1981,alaska,4940.18
+2018,delaware,4936.46
+1999,alaska,4911.56
+2001,alaska,4891.25
+2000,alaska,4845.32
+2011,montana,4844.64
+2015,alaska,4824.5
+2019,     idaho,4801.09
+2015,new hampshire,4797.34
+2004,alaska,4788.79
+2015,maine,4774.96
+2013,alaska,4773.58
+1979,vermont,4750.0
+1981,vermont,4738.73
+2019,     delaware,4738.18
+2014,alaska,4709.5
+2005,new hampshire,4690.64
+1980,vermont,4637.45
+2014,rhode island,4625.56
+1981,wyoming,4590.73
+1988,alaska,4590.55
+1989,alaska,4580.0
+1979,alaska,4579.45
+2009,alaska,4539.88
+1980,alaska,4518.0
+2010,alaska,4509.65
+2020,     idaho,4499.09
+2008,alaska,4467.49
+2012,alaska,4446.27
+1990,vermont,4441.64
+1982,vermont,4401.82
+1982,wyoming,4384.73
+1997,south dakota,4355.3
+2016,maine,4311.6
+2020,     delaware,4294.0
+1988,vermont,4286.73
+2011,alaska,4275.55
+1987,vermont,4255.64
+1980,wyoming,4251.64
+2016,new hampshire,4221.94
+1989,vermont,4214.91
+1993,vermont,4161.18
+2015,rhode island,4141.78
+2020,     alaska,4118.91
+1991,vermont,4077.45
+1994,south dakota,4067.73
+1980,south dakota,4058.18
+1995,south dakota,4057.93
+2017,maine,4020.25
+1986,wyoming,4016.55
+2016,rhode island,4001.83
+2020,     south dakota,3989.82
+2017,rhode island,3968.67
+1996,south dakota,3953.73
+1979,wyoming,3946.91
+1983,vermont,3944.91
+1991,south dakota,3935.82
+2019,nevada,3926.55
+1986,vermont,3911.82
+2017,south dakota,3891.43
+1992,wyoming,3877.36
+1992,south dakota,3876.73
+2017,new hampshire,3854.44
+1993,south dakota,3847.39
+2016,south dakota,3825.89
+1984,vermont,3823.64
+1985,vermont,3782.0
+1995,wyoming,3772.15
+2018,rhode island,3765.83
+1981,south dakota,3752.73
+1983,wyoming,3751.09
+1996,wyoming,3721.36
+1985,wyoming,3715.82
+1994,wyoming,3713.71
+1979,south dakota,3707.82
+1990,south dakota,3681.64
+2015,south dakota,3678.56
+1991,wyoming,3670.73
+1995,vermont,3653.88
+1997,wyoming,3649.89
+2018,maine,3647.1
+2012,south dakota,3642.61
+2016,north dakota,3624.79
+2015,north dakota,3602.89
+1987,wyoming,3591.45
+1981,north dakota,3578.36
+2018,new hampshire,3565.97
+1993,wyoming,3558.45
+2017,north dakota,3555.44
+1992,vermont,3534.0
+1999,south dakota,3525.73
+1998,south dakota,3522.2
+1980,north dakota,3515.64
+2013,south dakota,3498.38
+1986,south dakota,3496.18
+2019,     south dakota,3492.55
+1989,south dakota,3490.73
+1990,wyoming,3472.55
+1987,north dakota,3461.45
+2018,south dakota,3460.62
+2014,south dakota,3456.45
+1987,south dakota,3452.18
+1994,vermont,3429.14
+1984,wyoming,3421.64
+2020,     north dakota,3413.45
+2019,     new hampshire,3400.73
+1985,south dakota,3399.45
+1988,wyoming,3397.27
+2019,     rhode island,3394.36
+1990,north dakota,3394.18
+1998,vermont,3374.55
+1989,wyoming,3358.73
+1992,north dakota,3358.27
+1988,south dakota,3355.27
+1984,south dakota,3353.45
+1995,north dakota,3342.55
+1985,north dakota,3337.09
+2019,     maine,3336.91
+1998,wyoming,3331.0
+1982,south dakota,3322.91
+2000,vermont,3308.21
+1983,north dakota,3307.82
+1979,north dakota,3292.0
+1988,north dakota,3288.55
+2004,wyoming,3283.93
+2018,north dakota,3275.02
+2014,north dakota,3273.23
+2003,wyoming,3266.9
+1993,north dakota,3257.18
+2002,wyoming,3248.11
+1983,south dakota,3242.36
+1982,north dakota,3225.82
+1991,north dakota,3225.64
+1984,north dakota,3222.18
+1996,vermont,3217.32
+1986,north dakota,3216.55
+2001,south dakota,3209.0
+2019,     north dakota,3194.91
+2000,south dakota,3184.82
+2013,north dakota,3179.27
+1994,north dakota,3174.84
+2011,south dakota,3165.45
+2001,wyoming,3163.18
+2010,south dakota,3161.92
+1997,north dakota,3161.5
+2002,south dakota,3154.59
+2005,wyoming,3135.91
+1996,north dakota,3126.27
+1998,north dakota,3111.0
+2020,     maine,3104.73
+2020,     new hampshire,3093.45
+2001,vermont,3088.26
+1989,north dakota,3073.09
+2008,vermont,3048.05
+1999,vermont,3044.23
+2006,wyoming,3035.58
+1997,vermont,3029.73
+2003,south dakota,3028.82
+1999,wyoming,3016.09
+2012,vermont,3009.21
+2007,wyoming,2982.37
+2000,wyoming,2962.24
+2004,south dakota,2947.18
+2009,south dakota,2938.65
+2008,south dakota,2927.48
+2012,north dakota,2914.07
+2011,vermont,2912.31
+2006,south dakota,2888.91
+2008,wyoming,2882.91
+2009,vermont,2882.48
+2006,vermont,2878.53
+2007,south dakota,2865.6
+2002,vermont,2837.81
+2020,     rhode island,2837.45
+2005,vermont,2825.17
+2007,vermont,2820.39
+2009,wyoming,2809.47
+2001,north dakota,2790.22
+2004,vermont,2777.94
+2002,north dakota,2775.29
+1999,north dakota,2760.55
+2005,south dakota,2743.33
+2011,north dakota,2734.68
+2010,wyoming,2725.73
+2010,vermont,2724.93
+2013,vermont,2676.34
+2000,north dakota,2672.64
+2006,north dakota,2658.15
+2009,north dakota,2643.98
+2003,vermont,2639.44
+2008,north dakota,2632.16
+2012,wyoming,2616.09
+2007,north dakota,2572.08
+2011,wyoming,2569.32
+2013,wyoming,2563.36
+2003,north dakota,2523.38
+2010,north dakota,2466.72
+2019,utah,2465.55
+2005,north dakota,2465.53
+2016,wyoming,2438.97
+2004,north dakota,2374.11
+2014,wyoming,2369.91
+2015,wyoming,2340.09
+2018,wyoming,2226.73
+2017,wyoming,2224.34
+2016,vermont,2045.22
+2020,     wyoming,1953.27
+2017,vermont,1919.39
+2014,vermont,1893.09
+2019,     wyoming,1880.73
+2019,     vermont,1865.64
+2015,vermont,1794.4
+2018,vermont,1788.67
+2020,     vermont,1575.82
+2020,nevada,1523.11
+2021,nevada,1154.51
+2020,utah,809.95
+2020,hawaii,705.15
+2020,arizona,614.56
+2021,utah,587.59
+2019,arizona,483.22
+2019,oregon,465.25
+2020,texas,437.2
+2021,texas,420.35
+2019,texas,395.24
+2019,oklahoma,385.13
+2021,tennessee,384.2
+2020,florida,372.93
+2021,pennsylvania,341.08
+2021,hawaii,321.12
+2019,washington,283.49
+2021,oregon,271.02
+2020,washington,264.71
+2021,new mexico,257.27
+2019,maryland,249.1
+2019,michigan,242.71
+2021,oklahoma,241.49
+2020,colorado,232.57
+2020,georgia,225.34
+2019,minnesota,225.13
+2021,colorado,220.26
+2019,delaware,217.37
+2020,tennessee,216.08
+2021,indiana,214.71
+2020,oklahoma,214.7
+2019,florida,207.89
+2021,washington,206.63
+2019,wisconsin,205.43
+2021,minnesota,198.22
+2020,oregon,194.13
+2019,idaho,193.9
+2020,indiana,193.26
+2019,nebraska,193.2
+2020,wisconsin,192.82
+2020,maryland,184.03
+2019,kentucky,181.32
+2021,georgia,178.98
+2021,ohio,172.58
+2019,new mexico,171.97
+2019,virginia,170.3
+2020,illinois,163.55
+2019,colorado,163.26
+2019,georgia,162.44
+2019,tennessee,160.55
+2019,north carolina,159.82
+2020,minnesota,145.53
+2019,rhode island,143.07
+2019,ohio,141.93
+2020,ohio,136.33
+2020,missouri,135.9
+2020,virginia,133.84
+2019,south carolina,133.07
+2021,idaho,129.52
+2020,new mexico,129.49
+2019,kansas,129.36
+2019,louisiana,129.33
+2019,south dakota,129.21
+2020,alaska,129.2
+2019,missouri,128.12
+2019,indiana,123.46
+2021,wisconsin,123.07
+2021,north carolina,120.95
+2019,massachusetts,120.06
+2019,illinois,119.12
+2020,louisiana,118.57
+2021,virginia,118.09
+2021,south dakota,117.62
+2021,alabama,114.77
+2020,north carolina,114.05
+2021,michigan,112.18
+2021,missouri,111.84
+2019,alaska,111.21
+2019,maine,107.98
+2020,michigan,105.1
+2020,massachusetts,101.84
+2021,massachusetts,100.99
+2021,rhode island,99.88
+2021,kentucky,99.82
+2020,south carolina,99.39
+2021,illinois,97.22
+2020,maine,97.13
+2021,nebraska,95.11
+2021,connecticut,93.6
+2021,iowa,92.72
+2021,south carolina,92.03
+2020,idaho,90.15
+2020,new hampshire,90.03
+2021,wyoming,89.93
+2020,north dakota,88.03
+2021,new york,86.49
+2020,montana,86.49
+2020,delaware,82.05
+2020,pennsylvania,80.23
+2021,delaware,76.22
+2021,arizona,74.42
+2021,vermont,74.18
+2020,connecticut,71.84
+2020,new jersey,69.57
+2020,west virginia,68.15
+2021,west virginia,65.55
+2021,maryland,65.33
+2021,north dakota,65.32
+2019,hawaii,65.31
+2019,iowa,65.3
+2020,alabama,65.26
+2021,louisiana,65.25
+2019,arkansas,65.21
+2020,mississippi,65.21
+2020,arkansas,65.19
+2021,montana,65.18
+2021,maine,65.16
+2019,north dakota,65.16
+2020,rhode island,65.14
+2021,new jersey,65.13
+2019,new hampshire,65.12
+2020,south dakota,65.12
+2020,vermont,65.07
+2019,new york,65.02
+2020,new york,65.02
+2021,new hampshire,64.49
+2019,west virginia,63.01
+2020,wyoming,59.68
+2020,nebraska,59.56
+2019,connecticut,58.15
+2021,arkansas,55.98
+2019,new jersey,54.01
+2019,vermont,53.78
+2019,montana,53.68
+2021,mississippi,52.03
+2019,alabama,49.0
+2020,kentucky,47.58
+2019,mississippi,45.5
+2021,alaska,21.56
+2021,federal,21.25
+2020,federal,12.01
+2015,guam,3.0
+2018,federal,2.13
+2006,guam,2.0
+2019,federal,1.53
+2021,kansas,1.33
+2020,iowa,1.31
+2020,kansas,1.26
+2019,california,1.24
+2019,pennsylvania,1.22
+2019,wyoming,1.2
+2021,district of columbia,1.19
+2020,california,1.18
+2021,california,1.18
+2019,district of columbia,1.13
+2020,district of columbia,1.12
+2017,federal,1.0
+2021,florida,1.0
